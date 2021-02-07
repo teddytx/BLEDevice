@@ -1,0 +1,15 @@
+WinMetadata\Windows.winmd
+App.xbf
+BluetoothLEUniversal.xr.xml
+MainPage.xbf
+Scenario1_Discovery.xbf
+Scenario2_Client.xbf
+Styles\Styles.xbf
+Properties\Default.rd.xml
+Assets\microsoft-sdk.png
+Assets\smallTile-sdk.png
+Assets\splash-sdk.png
+Assets\squareTile-sdk.png
+Assets\storeLogo-sdk.png
+Assets\tile-sdk.png
+Assets\windows-sdk.png
